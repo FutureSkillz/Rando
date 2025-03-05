@@ -4,6 +4,8 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rando", "Rando\Rando.csproj", "{56026ECC-D5B2-4EFD-B5A5-DEF63A21B717}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{9C74CBCE-FAAE-44E5-8736-BEF5E856E44E}"
+EndProject
 Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D836DBF2-E604-40A2-A137-0EFB8AB9ED45}
@@ -13,6 +15,10 @@ Global
 		{56026ECC-D5B2-4EFD-B5A5-DEF63A21B717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56026ECC-D5B2-4EFD-B5A5-DEF63A21B717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56026ECC-D5B2-4EFD-B5A5-DEF63A21B717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C74CBCE-FAAE-44E5-8736-BEF5E856E44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C74CBCE-FAAE-44E5-8736-BEF5E856E44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C74CBCE-FAAE-44E5-8736-BEF5E856E44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C74CBCE-FAAE-44E5-8736-BEF5E856E44E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
